@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LegendsneverdieX6
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT, PHP, LARAVEL, MYSQL, JAVA, C PROGRAMMING, COBOL.
+- 👀 I’m interested in HTML, CSS, JAVASCRIPT, PHP, LARAVEL, C PROGRAMMING, COBOL.
 - 🌱 I’m currently learning JAVA, C PROGRAMMING
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
