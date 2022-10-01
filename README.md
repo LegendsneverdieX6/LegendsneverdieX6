@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LegendsneverdieX6
+- 👋 Hi, I’m Luqman.
 - 👀 I’m interested in HTML, CSS, JAVASCRIPT, PHP, LARAVEL, C PROGRAMMING, COBOL.
-- 🌱 I’m currently learning JAVA, C PROGRAMMING
+- 🌱 I’m currently learning nothing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
